@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="connection_problem">Problemas com a conexão!</string>
+    <string name="movie">filme</string>
+    <string name="sub_title">titulo secundários</string>
+    <string name="movie_info">Info filme</string>
+    <string name="release_date">Lançamento: </string>
+    <string name="date">2019</string>
+    <string name="rating">Pontuação: s</string>
+    <string name="note">8</string>
+    <string name="duration">Duração: </string>
+    <string name="time_duration">2.3 h</string>
+    <string name="budget">Despesas: </string>
+    <string name="budget_price">130,000</string>
+    <string name="revenue">Receita: </string>
+    <string name="revenue_value">130,000</string>
+    <string name="overview">Visão geral: </string>
+    <string name="overview_detail">overview .........</string>
+    <string name="error_message">Mensagem de erro</string>
+</resources>

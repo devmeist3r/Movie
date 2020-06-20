@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="connection_problem">Connection Problem</string>
+    <string name="movie">movie</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">Movie info</string>
+    <string name="release_date">ReleaseDate: </string>
+    <string name="date">2019</string>
+    <string name="rating">Rating: </string>
+    <string name="note">8</string>
+    <string name="duration">Duration: </string>
+    <string name="time_duration">2.3 h</string>
+    <string name="budget">Budget:</string>
+    <string name="budget_price">130,000</string>
+    <string name="revenue">Revenue: </string>
+    <string name="revenue_value">130,000</string>
+    <string name="overview">Overview</string>
+    <string name="overview_detail">overview .........</string>
+    <string name="error_message">Error Message</string>
+</resources>
